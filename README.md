@@ -1,3 +1,5 @@
+<!-- By Jugal Bhatt -->
+
 <p align="center">
 <a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/41824020/92394292-e88c5a00-f13e-11ea-94f1-16a6fb4c07d9.png" alt="dsc-vit logo"/>
