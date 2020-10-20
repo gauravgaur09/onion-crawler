@@ -81,7 +81,7 @@ scrapy crawl name_of_spider # DRL
 ## Bigger Datasets
 - [DarkNet Dataset](https://1uc1f3r616.github.io/Dark-Net-Websites-Dataset/)
 
-## StoryBoarding
+## Story Boarding
 Idea hamster: --
 Developer: I had prior experience with web scraping but hadn't worked with web crawlers before and scraping the deep-web was also something new to me as it required setting up tor proxy. This project developed my interest in the web-mining subject and therefore it encorged me to take this subject as a subject in college curriculum. 
 
