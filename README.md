@@ -1,4 +1,4 @@
-<!-- By Jugal Bhatt - DSC - VIT -->
+<!-- By Jugal Bhatt - DSC - VIT (CSE)-->
 
 <p align="center">
 <a href="https://dscvit.com">
